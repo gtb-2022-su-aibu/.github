@@ -1,12 +1,9 @@
-## Hi there 👋
+## Here is Aibu 👋
 
-<!--
+我叫苏爱卜（但我不爱吃萝卜，我爱吃炸鸡，炸鸡yyds）
 
-**Here are some ideas to get you started:**
+我是男生，喜欢健身和篮球🏀，希望可以找到志同道合和朋友！
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+下面是我的丑照
+
+![me](assets/aibu-pic.png)
